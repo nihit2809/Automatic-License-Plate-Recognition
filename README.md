@@ -19,4 +19,11 @@ The trained model can used using the yolov5s6.pt file.
 <br>
 <br>
 Image used for inference: <br>
-
+<br>
+![alt text](https://github.com/nihit2809/Automatic-License-Plate-Recognition/blob/main/Test-Data/test-image.jpg)
+<br>
+Cropped Image<br>
+![alt text](https://github.com/nihit2809/Automatic-License-Plate-Recognition/blob/main/Test-Data/cropped-image.jpg)<br>
+<br>
+<br>
+The final output was **"KP22ONL"**

@@ -15,6 +15,8 @@ Acknowledgement:<br>
 R. Laroca, E. Severo, L. A. Zanlorensi, L. S. Oliveira, G. R. Gonçalves, W. R. Schwartz, and D. Menotti, “A Robust Real-Time Automatic License Plate Recognition Based on the YOLO Detector” in 2018 International Joint Conference on Neural Networks (IJCNN), July 2018, pp. 1–10.
 <br>
 <br>
-
+The trained model can used using the yolov5s6.pt file.
+<br>
+<br>
 Image used for inference: <br>
 
